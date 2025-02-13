@@ -21,12 +21,12 @@ Our primary goal is to provide students with hands-on experience in essential so
 
 ## 🚀 Getting Started
 
-While we don't have any active projects at the moment, we're in the process of planning exciting initiatives. Stay tuned for updates!
+We're working on getting some exciting projects setup for you. Stay Tuned!
 
 ## 📫 Contact Us
 
 Want to get involved or learn more? We'd love to hear from you!
-Email us at aws.wsu@gmail.com or [contact us on instagram ](https://www.instagram.com/awscloudwsu/)
+Email us at aws.wsu@wayne.edu or [contact us on instagram ](https://www.instagram.com/awscloudwsu/)
 
 <div align="center">
 
