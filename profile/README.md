@@ -26,7 +26,7 @@ We're working on getting some exciting projects setup for you. Stay Tuned!
 ## 📫 Contact Us
 
 Want to get involved or learn more? We'd love to hear from you!
-Email us at aws.wsu@wayne.edu or [contact us on instagram ](https://www.instagram.com/awscloudwsu/)
+Email us at awscloudclubs@wayne.edu or [contact us on instagram ](https://www.instagram.com/awscloudwsu/)
 
 <div align="center">
 
