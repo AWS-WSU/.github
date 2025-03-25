@@ -25,15 +25,28 @@ We're working on getting some exciting projects setup for you. Stay Tuned!
 
 ## Meet your leaders
 
+
 ---
-<img width="268" alt="Screenshot 2025-03-24 at 1 57 29 PM" src="https://github.com/user-attachments/assets/2e10b33a-6a3e-4d71-865d-2d636b06ff34" /> <br>
-**Blaine Oania - CTO** <br>
-Contact: _BlaineOania@wayne.edu_ <br>
+<table>
+  <tr>
+    <td align="center">
+      <img width="150" alt="Screenshot 2025-03-24 at 10 00 06 PM" src="https://github.com/user-attachments/assets/42b81336-813b-4a3f-bb13-eeebe3182908" /> <br>
+      <strong>Blaine Oania - CTO</strong><br>
+      <em>BlaineOania@wayne.edu</em>
+    </td>
+    <td align="center">
+      <img width="100" alt="Screenshot 2025-03-24 at 9 59 08 PM" src="https://github.com/user-attachments/assets/c411dde3-d732-4077-98cf-391862ebd8e2" /><br> <br>
+      <strong>Natali Chaaban - Senior Cloud Architect</strong><br>
+      <em>nchaaban1@wayne.edu</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2440439f-c54c-4ec9-b9c5-14b5bf2b1fcf" width="100"/><br> <br>
+      <strong>Akshath Reddy - Senior Cloud Architect</strong><br>
+      <em>akshathreddy@wayne.edu</em>
+    </td>
+  </tr>
+</table>
 
-
-<img width="255" alt="Screenshot 2025-03-24 at 2 01 00 PM" src="https://github.com/user-attachments/assets/31e9eb83-538f-42cb-904a-94acfab78438" /> <br>
-**Natali Chaaban- Senior Cloud Architect** <br>
-Contact: _nchaaban1@wayne.edu_
 
 ## 📫 Contact Us
 
