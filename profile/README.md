@@ -25,8 +25,6 @@ We're working on getting some exciting projects setup for you. Stay Tuned!
 
 ## Meet your leaders
 
-
----
 <table>
   <tr>
     <td align="center">
@@ -46,7 +44,6 @@ We're working on getting some exciting projects setup for you. Stay Tuned!
     </td>
   </tr>
 </table>
-
 
 ## 📫 Contact Us
 
