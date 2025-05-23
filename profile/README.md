@@ -1,8 +1,8 @@
-# AWS Cloud Computing Club @ Wayne State University
+<h1 align="center">AWS Cloud Computing Club @ Wayne State University</h1>
 
-<div align="center">
-  <img width="400" src="https://github.com/user-attachments/assets/7daeddd2-3ae3-4a1a-8867-73d35696f75c" alt="AWS Logo">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2057d3aa-a3e2-4566-b2f6-b89b0dd165f5" width="300" alt="Student Hub Banner"/>
+</p>
 
 ## Welcome! 👋🏻
 
