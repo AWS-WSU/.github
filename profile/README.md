@@ -21,7 +21,15 @@ Our primary goal is to provide students with hands-on experience in essential so
 
 ## 🚀 Getting Started
 
-We're working on getting some exciting projects setup for you. Stay Tuned!
+Take a look at any of the projects below and dive in!
+
+#### 🧩 Current Projects
+
+| Project | Status | Contributions |
+|----------|---------|----------------|
+| [**AWS-Student-Hub**](https://github.com/AWS-WSU/AWS-Student-Hub) | ![Status: Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=amazonaws) | ![Contributions: Open](https://img.shields.io/badge/Contributions-Open-success?style=for-the-badge&logo=github) |
+| [**warrior-bot**](https://github.com/AWS-WSU/warrior-bot) | ![Status: Ramp Up](https://img.shields.io/badge/Status-Ramp--Up-yellow?style=for-the-badge&logo=python) | ![Contributions: Closed](https://img.shields.io/badge/Contributions-Closed-lightgrey?style=for-the-badge&logo=github) |
+
 
 
 ## 📫 Contact Us
