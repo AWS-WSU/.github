@@ -28,7 +28,7 @@ Take a look at any of the projects below and dive in!
 | Project | Status | Contributions |
 |----------|---------|----------------|
 | [**AWS-Student-Hub**](https://github.com/AWS-WSU/AWS-Student-Hub) | ![Status: Live](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=amazonaws) | ![Contributions: Open](https://img.shields.io/badge/Contributions-Open-success?style=for-the-badge&logo=github) |
-| [**warrior-bot**](https://github.com/AWS-WSU/warrior-bot) | ![Status: Ramp Up](https://img.shields.io/badge/Status-Ramp--Up-yellow?style=for-the-badge&logo=python) | ![Contributions: Closed](https://img.shields.io/badge/Contributions-Closed-lightgrey?style=for-the-badge&logo=github) |
+| [**warrior-bot**](https://github.com/AWS-WSU/warrior-bot) | ![Status: In-Development](https://img.shields.io/badge/Status-In--Development-blue?style=for-the-badge&logo=python) | ![Contributions: Open](https://img.shields.io/badge/Contributions-Open-success?style=for-the-badge&logo=github) 
 
 
 
